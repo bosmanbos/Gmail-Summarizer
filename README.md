@@ -39,9 +39,9 @@ This project uses CrewAI to fetch, analyze, and summarize important emails from 
 
 5. Update the `credentials_path` in `gmailScraper.py` to point to your client_secret.json file
 
-6. Set your OpenAI API key as an environment variable:
+6. Set your OpenAI API key as an environment variable in the .env file:
    ```
-   export OPENAI_API_KEY="your-api-key-here"
+   OPENAI_API_KEY="your-api-key-here"
    ```
 
 ## Usage
