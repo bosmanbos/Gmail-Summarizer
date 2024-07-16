@@ -141,7 +141,7 @@ class gmailTasks:
                 "Ensure that the user can easily identify which summary corresponds to which email, including clear indicators of the email's origin, timing, and importance."
             ),
             agent = agent,
-            output_file = 'Detailed_Important_Email_Summaries.md'
+            output_file = 'Detailed_Important_Email_Summaries.txt'
         )
     
     
